@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "c842df67648e5b94719e923b512244fb"
+build_time: [1544945569, 85091000]
+inputs:
+  "/Users/prateek/Documents/Code/Learning/ArchitectureLearning/ArchitectureLearning/ViewController.swift": [1544945563, 0]
+  "/Users/prateek/Documents/Code/Learning/ArchitectureLearning/ArchitectureLearning/AppDelegate.swift": [1544945563, 0]
